@@ -1,0 +1,63 @@
+==Creating Dashboard==
+
+Setting default format for all dimensions and measures
+Renaming columns
+Hiding irrelevant data (Debitor, Type)
+Removing grid
+___
+
+00 Status worksheet
+Group status
+Add shapes
+Set titles
+___
+
+01 Duration/Transaction
+Group Date by MTD/LY
+Format size & colors
+KPI type input
+___
+
+02 Status of Payment
+Transaction count by status
+Initial amount sum by status
+Format colors
+Treemaps chart
+___
+
+03 Charges/Period
+Duplicate worksheet 01 Duration/Transaction
+Group by Periods
+Charges in Amount
+KPI type input
+___
+
+04 Payment Status Forecast
+Group status to provide enough data for forecast analysis
+Group by quarters 
+Compute forecast in initial amount for next quarter with 95% CL
+___
+
+05 Issues in correspondence chains
+Group issue status
+Show count in %
+Pie chart
+
+___
+
+06 Probability of Delay
+Use delay/country or duration map
+Delay = Duration - 1 day
+
+___
+
+07 Troubles Forecast 
+Combine delay and issue indicators: normalized?
+
+___
+
+Still left to do:
+Convert all currencies to USD
+Check design identity
+Add dashboard title
+Add time filter
