@@ -1,15 +1,32 @@
 ==Creating Dashboard==
 
+TABLEAU PREP
 Setting default format for all dimensions and measures
 Renaming columns
 Hiding irrelevant data (Debitor, Type)
 Removing grid
+
+___
+
+DATA PREP
+Currency rate calculation field
+Convert amounts in EUR to USD
+
+
 ___
 
 00 Status worksheet
 Group status
 Add shapes
 Set titles
+
+___
+
+00 Period
+Add a time filter
+___
+
+00 Exchange rate
 ___
 
 01 Duration/Transaction
@@ -61,3 +78,4 @@ Convert all currencies to USD
 Check design identity
 Add dashboard title
 Add time filter
+Add country filter
