@@ -23,3 +23,5 @@ Seeing the countries on world map so that the user can click of the country of h
 Trello: https://trello.com/b/swG8a7zL/project-6-group-3
 
 Tableau online: https://prod-uk-a.online.tableau.com/#/site/ironzijing/workbooks/95937/views
+
+Github: https://github.com/shinanna/Project6_Tableau
